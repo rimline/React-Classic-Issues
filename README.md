@@ -10,7 +10,7 @@
 
 6.[Move react-dom implementation files to react-dom-bindings #25345](https://github.com/facebook/react/pull/25345)
 
-7.[React Fire: Modernizing React DOM #13525](React Fire: Modernizing React DOM #13525)
+7.[React Fire: Modernizing React DOM #13525](https://github.com/facebook/react/issues/13525)
 
 8.[Convert snapshot phase ("before mutation") to depth-first traversal #20622](https://github.com/facebook/react/pull/25345)
 
