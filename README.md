@@ -21,3 +21,5 @@
 11.[Schedule passive phase whenever there's a deletion #20624](https://github.com/facebook/react/pull/20624)
 
 12.[Delete remaining references to effect list #20625](https://github.com/facebook/react/pull/20625)
+
+13.[New in 18: useDeferredValue #129](https://github.com/reactwg/react-18/discussions/129)
