@@ -23,3 +23,5 @@
 12.[Delete remaining references to effect list #20625](https://github.com/facebook/react/pull/20625)
 
 13.[New in 18: useDeferredValue #129](https://github.com/reactwg/react-18/discussions/129)
+
+14.[Fiber Principles: Contributing To Fiber #7942](https://github.com/facebook/react/issues/7942?source=post_page---------------------------)
