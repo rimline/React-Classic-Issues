@@ -25,3 +25,5 @@
 13.[New in 18: useDeferredValue #129](https://github.com/reactwg/react-18/discussions/129)
 
 14.[Fiber Principles: Contributing To Fiber #7942](https://github.com/facebook/react/issues/7942?source=post_page---------------------------)
+
+15.[Add React 18 changelog #24195](https://github.com/facebook/react/pull/24195)
