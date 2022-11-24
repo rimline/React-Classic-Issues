@@ -30,4 +30,4 @@
 
 16.[Automatic batching for fewer renders in React 18 #21](https://github.com/reactwg/react-18/discussions/21)
 
-17.[Community feedback on console silencing #21783](https://github.com/reactwg/react-18/discussions/21783)
+17.[Community feedback on console silencing #21783](https://github.com/facebook/react/issues/21783)
