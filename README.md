@@ -32,4 +32,6 @@
 
 17.[Community feedback on console silencing #21783](https://github.com/facebook/react/issues/21783)
 
-18.[[Fizz/Float] Float for stylesheet resources #25243](https://github.com/facebook/react/pull/25243)
+18.[Fizz/Float] Float for stylesheet resources #25243](https://github.com/facebook/react/pull/25243)
+
+19.[Refactor of interleaved ("concurrent") update queue #24663](https://github.com/facebook/react/pull/24663)
