@@ -37,3 +37,5 @@
 19.[Refactor of interleaved ("concurrent") update queue #24663](https://github.com/facebook/react/pull/24663)、、
 
 20.[Initial Lanes implementation #18796](https://github.com/facebook/react/pull/18796)
+
+21.[Fiber Principles: Contributing To Fiber #7942](https://github.com/facebook/react/issues/7942)
