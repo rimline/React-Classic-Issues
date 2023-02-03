@@ -41,3 +41,5 @@
 21.[Fiber Principles: Contributing To Fiber #7942](https://github.com/facebook/react/issues/7942)
 
 22. https://github.com/reactwg/react-18/discussions/18
+
+23.[RFC: First class support for promises and async/await #229](https://github.com/reactjs/rfcs/pull/229)
