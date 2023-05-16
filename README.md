@@ -34,7 +34,7 @@
 
 18.[[Fizz/Float] Float for stylesheet resources #25243](https://github.com/facebook/react/pull/25243)
 
-19.[Refactor of interleaved ("concurrent") update queue #24663](https://github.com/facebook/react/pull/24663)、、
+19.[Refactor of interleaved ("concurrent") update queue #24663](https://github.com/facebook/react/pull/24663)
 
 20.[Initial Lanes implementation #18796](https://github.com/facebook/react/pull/18796)
 
