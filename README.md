@@ -44,4 +44,6 @@
 
 23.[RFC: First class support for promises and async/await #229](https://github.com/reactjs/rfcs/pull/229)
 
-24.[RFC: useEvent #220]([https://github.com/facebook/react/pull/18796](https://github.com/reactjs/rfcs/pull/220))
+24.[RFC: useEvent #220](https://github.com/reactjs/rfcs/pull/220)
+
+25.[RFC: Callback Ref Cleanup #205](https://github.com/reactjs/rfcs/pull/205)
