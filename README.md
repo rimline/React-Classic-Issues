@@ -43,3 +43,5 @@
 22. https://github.com/reactwg/react-18/discussions/18
 
 23.[RFC: First class support for promises and async/await #229](https://github.com/reactjs/rfcs/pull/229)
+
+24.[Initial Lanes implementation #18796](https://github.com/facebook/react/pull/18796)
