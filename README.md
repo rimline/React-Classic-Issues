@@ -49,3 +49,5 @@
 25.[RFC: Callback Ref Cleanup #205](https://github.com/reactjs/rfcs/pull/205)
 
 26.[Remove eventTime field from class Update type #26219](https://github.com/facebook/react/pull/26219)
+
+27.[Defer hidden setState callbacks until component is visible](https://github.com/facebook/react/pull/24872)
