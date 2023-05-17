@@ -47,3 +47,5 @@
 24.[RFC: useEvent #220](https://github.com/reactjs/rfcs/pull/220)
 
 25.[RFC: Callback Ref Cleanup #205](https://github.com/reactjs/rfcs/pull/205)
+
+26.[Remove eventTime field from class Update type #26219](https://github.com/facebook/react/pull/26219)
