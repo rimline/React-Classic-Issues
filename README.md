@@ -51,3 +51,5 @@
 26.[Remove eventTime field from class Update type #26219](https://github.com/facebook/react/pull/26219)
 
 27.[Defer hidden setState callbacks until component is visible](https://github.com/facebook/react/pull/24872)
+
+28.[experimental_use(promise) #25084](https://github.com/facebook/react/pull/25084)
