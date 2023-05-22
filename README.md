@@ -53,3 +53,5 @@
 27.[Defer hidden setState callbacks until component is visible](https://github.com/facebook/react/pull/24872)
 
 28.[experimental_use(promise) #25084](https://github.com/facebook/react/pull/25084)
+
+29.[Fix: Resolve entangled actions independently #26726](https://github.com/facebook/react/pull/26726)
