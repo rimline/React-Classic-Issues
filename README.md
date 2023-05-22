@@ -56,4 +56,4 @@
 
 29.[Initial (client-only) async actions support #26621](https://github.com/facebook/react/pull/26621)
 
-29.[Fix: Resolve entangled actions independently #26726](https://github.com/facebook/react/pull/26726)
+30.[Fix: Resolve entangled actions independently #26726](https://github.com/facebook/react/pull/26726)
