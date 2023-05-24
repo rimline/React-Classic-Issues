@@ -58,4 +58,4 @@
 
 30.[Fix: Resolve entangled actions independently #26726](https://github.com/facebook/react/pull/26726)
 
-31.[Move update scheduling to microtask #](https://github.com/facebook/react/pull/26512)
+31.[Move update scheduling to microtask #26512](https://github.com/facebook/react/pull/26512)
