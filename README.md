@@ -57,3 +57,5 @@
 29.[Initial (client-only) async actions support #26621](https://github.com/facebook/react/pull/26621)
 
 30.[Fix: Resolve entangled actions independently #26726](https://github.com/facebook/react/pull/26726)
+
+31.[Move update scheduling to microtask #26512]([Move update scheduling to microtask #](https://github.com/facebook/react/pull/26512)
