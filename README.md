@@ -31,4 +31,5 @@
 31. [Move update scheduling to microtask #26512](https://github.com/facebook/react/pull/26512)
 32. [Unify use and renderDidSuspendDelayIfPossible implementations #25922](https://github.com/facebook/react/pull/25922)
 33. [Fix: Move destroy field to shared instance object](https://github.com/facebook/react/pull/26561)
+34. [Feature: Suspend commit without blocking render](https://github.com/facebook/react/pull/26398)
 
