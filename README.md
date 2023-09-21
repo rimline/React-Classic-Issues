@@ -32,4 +32,5 @@
 32. [Unify use and renderDidSuspendDelayIfPossible implementations #25922](https://github.com/facebook/react/pull/25922)
 33. [Fix: Move destroy field to shared instance object](https://github.com/facebook/react/pull/26561)
 34. [Feature: Suspend commit without blocking render](https://github.com/facebook/react/pull/26398)
-
+35. [Implement HostSingleton](https://github.com/facebook/react/pull/25426)
+36. [[Float][Fiber] Implement waitForCommitToBeReady for stylesheet resources](https://github.com/facebook/react/pull/26450)
