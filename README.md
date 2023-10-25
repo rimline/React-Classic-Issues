@@ -34,4 +34,4 @@
 34. [Feature: Suspend commit without blocking render #26398](https://github.com/facebook/react/pull/26398)
 35. [Implement HostSingleton #25426](https://github.com/facebook/react/pull/25426)
 36. [[Float][Fiber] Implement waitForCommitToBeReady for stylesheet resources #26450](https://github.com/facebook/react/pull/26450)
-37. [New Suspense SSR Architecture in React 18]()
+37. [New Suspense SSR Architecture in React 18](https://github.com/reactwg/react-18/discussions/37)
